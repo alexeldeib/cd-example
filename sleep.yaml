@@ -18,5 +18,5 @@ spec:
       containers:
       - image: ubuntu
         name: ubuntu
-        command: command: ["sleep", "infinity"]
+        command: ["sleep", "infinity"]
         resources: {}
